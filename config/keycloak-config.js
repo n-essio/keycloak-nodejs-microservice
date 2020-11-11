@@ -7,12 +7,7 @@ var keycloakConfig = {
     clientId: 'cps_timbrature_ng',
     bearerOnly: false,
     serverUrl: 'https://sso.n-ess.it/auth',
-    // realmPublicKey: 'MIIBIjANBgkqhkiG9w0BAQEFAAO...'
     realm: 'lab'
-    // ,
-    // credentials: {
-    //     secret: '18adcdad-1a96-4066-9217-6cab0e7b461e'
-    // }
 };
 
 
